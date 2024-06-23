@@ -1,0 +1,3 @@
+D:/tpu/programming/lab8/build/CMakeFiles/lab8.dir
+D:/tpu/programming/lab8/build/CMakeFiles/edit_cache.dir
+D:/tpu/programming/lab8/build/CMakeFiles/rebuild_cache.dir
